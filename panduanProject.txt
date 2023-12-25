@@ -1,0 +1,20 @@
+Business understanding
+- 5W1H => (What, When, Where, Which, Who, How)
+
+Data understanding
+- Data Collection
+    - Qualitative Analysis
+    - Quantitative Analysis
+        - Descriptive Statistic
+        - Inferentia Statistic
+- Data Analysis
+- Data Preprocessing
+
+Data Processing
+- Research the problem
+- Make A Model
+- Prediction
+
+Reporting
+- Final Analysis
+- Conclusion
